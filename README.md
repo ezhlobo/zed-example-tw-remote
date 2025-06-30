@@ -9,4 +9,7 @@
    bin/start
    ```
 3. Open [zed://ssh/root@localhost:2222/app](zed://ssh/root@localhost:2222/app)
+
+   Password: `passwd`
+
 4. Try auto-complete inside `src/input.css` and `src/input.html`
