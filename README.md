@@ -8,7 +8,10 @@
    ```bash
    bin/start
    ```
-3. Open [zed://ssh/root@localhost:2222/app](zed://ssh/root@localhost:2222/app)
+3. Open container in zed
+   ```bash
+   open zed://ssh/root@localhost:2222/app
+   ```
 
    Password: `passwd`
 
